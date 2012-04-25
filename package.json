@@ -1,0 +1,21 @@
+{
+  "author": "cho45 <cho45@lowreal.net> (http://www.lowreal.net/)",
+  "name": "hash-multivalue",
+  "description": "Store multiple values per key in an object.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cho45/hash-multivalue.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cho45/hash-multivalue.js.git"
+  },
+  "main": "lib/hashmultivalue.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
