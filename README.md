@@ -24,7 +24,7 @@ This is mainly designed for like query parameters and HTTP headers.
 RESTRICTION
 -----------
 
-'get', 'getOne', 'getAll', 'set', 'add', 'remove', 'clear' and so on are methods for manipulating instance,
+'get', 'getAll', 'set', 'add', 'remove', 'clear' and so on are methods for manipulating instance,
 so you can't access the keys named so directly. Eg:
 
 	var hash = HashMultiValue({
